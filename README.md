@@ -1,2 +1,2 @@
-# searches-rails
+# Searches rails
 App rails search 
