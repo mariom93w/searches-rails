@@ -1,2 +1,3 @@
-# Searches rails
+# Rails searches
+
 App rails search 
